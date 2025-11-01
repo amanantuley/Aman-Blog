@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "author-aman",
+      "description": "Avatar for Aman Antuley",
+      "imageUrl": "https://images.unsplash.com/photo-1542630994-f2d8bed7de65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb3J0cmFpdCUyMHBlcnNvbnxlbnwwfHx8fDE3NjExNjE2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "post-ai-future",
+      "description": "Featured image for AI future post",
+      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc2MTE3NzAwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "post-react-mastery",
+      "description": "Featured image for React mastery post",
+      "imageUrl": "https://images.unsplash.com/photo-1577648188599-291bb8b831c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3ZWIlMjBkZXZlbG9wbWVudCUyMGNvZGV8ZW58MHx8fHwxNzYxMjMzMTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "web development code"
+    },
+    {
+      "id": "post-tech-trends-2024",
+      "description": "Featured image for tech trends post",
+      "imageUrl": "https://images.unsplash.com/photo-1535021131637-96f0c931f5d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmdXR1cmlzdGljJTIwY2l0eXxlbnwwfHx8fDE3NjExMjU4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic city"
+    },
+    {
+      "id": "post-imposter-syndrome",
+      "description": "Featured image for imposter syndrome post",
+      "imageUrl": "https://images.unsplash.com/photo-1761067178658-86d979d7a9a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzb2xpdGFyeSUyMHBlcnNvbnxlbnwwfHx8fDE3NjEyMzMxNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "solitary person"
+    },
+    {
+      "id": "post-llm-deep-dive",
+      "description": "Featured image for LLM deep dive post",
+      "imageUrl": "https://images.unsplash.com/photo-1644325349124-d1756b79dd42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxuZXVyYWwlMjBuZXR3b3JrfGVufDB8fHx8MTc2MTE4OTQxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "neural network"
+    },
+    {
+      "id": "post-nextjs-14",
+      "description": "Featured image for Next.js 14 post",
+      "imageUrl": "https://images.unsplash.com/photo-1630407761652-e14307f15b43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3ZWJzaXRlJTIwYXJjaGl0ZWN0dXJlfGVufDB8fHx8MTc2MTIzMzE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "website architecture"
+    },
+    {
+      "id": "post-quantum-computing",
+      "description": "Featured image for quantum computing post",
+      "imageUrl": "https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxxdWFudHVtJTIwY29tcHV0ZXJ8ZW58MHx8fHwxNzYxMTU0NTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "quantum computer"
+    },
+    {
+      "id": "post-dev-journey",
+      "description": "Featured image for developer journey post",
+      "imageUrl": "https://images.unsplash.com/photo-1552308995-2baac1ad5490?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RpbmclMjBzZXR1cHxlbnwwfHx8fDE3NjExNDI3MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coding setup"
+    },
+    {
+      "id": "project-portfolio",
+      "description": "Image for portfolio project",
+      "imageUrl": "https://images.unsplash.com/photo-1649442746245-f51f4b76963f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb25hbCUyMHdlYnNpdGV8ZW58MHx8fHwxNzYxMjI3ODEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "personal website"
+    },
+    {
+      "id": "project-ecom",
+      "description": "Image for e-commerce project",
+      "imageUrl": "https://images.unsplash.com/photo-1605902711834-8b11c3e3ef2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxvbmxpbmUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NjExMjQ2NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "online shopping"
+    },
+    {
+      "id": "project-ai-chatbot",
+      "description": "Image for AI chatbot project",
+      "imageUrl": "https://images.unsplash.com/photo-1676799910963-3932099f67e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hhdCUyMGludGVyZmFjZXxlbnwwfHx8fDE3NjEyMDQyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chat interface"
+    },
+    {
+      "id": "project-data-viz",
+      "description": "Image for data visualization project",
+      "imageUrl": "https://images.unsplash.com/photo-1730382624709-81e52dd294d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGFydHMlMjBncmFwaHN8ZW58MHx8fHwxNzYxMjMyMTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "charts graphs"
+    }
+  ]
+}
